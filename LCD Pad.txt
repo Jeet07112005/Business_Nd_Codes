@@ -1,0 +1,7 @@
+Title: LCD Writing Pad
+DESCRIPTION: To replace paper notebooks, it will contain file system to store different notebooks under subject folders. It will come wih a stylus to write 
+		and can only do that i.e. write and save notes.
+
+TARGET AUDIENCE: Students
+
+V2.O: Comes with google integration. User can access the internet but only for information.

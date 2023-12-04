@@ -1,0 +1,30 @@
+IDEA: Web site for local shops displaying products availability
+
+BUSINESS: 
+1. Partnerships with local shops to display the products of the shops (Membership/Subscription)
+2. User searches a location and the wesite shows the shops in that area and these links go to the webpage of that shop
+3. No subscription for shops until first costomer is directed from our website 
+4. After login user gets a 1 time discount code(for certain percentage)
+5. No subscription fee for consumers but if they want to get more discount codes per month they can buy premium susbscription
+
+
+
+TO DO:
+1. Location and map data
+2. Buy DOMAIN and host website
+
+
+
+
+
+VERSION 2.0
+TITLE: Small Scale Businesses that manufactures at home can sell to more costomers with the help of our website
+DESCRIPTION: For eg there is a  house wife that makes cookies in small packets 20 rupees per packet. She wants to sell these cookeies
+but she can't because she can't open a store instead she becomes a member of our website. Then we ship her products to any shop of her 
+choice and next the shopkeeper then sells those products as usual. Now the profit made from the sales is divided among the shop keeper and the lady by us.
+
+SUBSCRIPTION PLAN: For the producer 
+		1. Levels of subscription depending on quantity, wt, freq and distance
+		2. Contract will be set by the producer based on the number of products they want to sell, weight of the total products, when they want to sell within 
+		   subscription month, this will be the subscripition amount
+		3. A certain amt of subscription is fixed for any seller whether this home producer or shop
